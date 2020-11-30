@@ -1,4 +1,4 @@
-# panel_data_analysis
+ panel_data_analysis
 
 # Maybe this script can help someone to overcome the pitfalls of panel data model analysis in R in his/her work
 
